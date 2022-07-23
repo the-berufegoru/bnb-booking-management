@@ -1,0 +1,12 @@
+C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\BnB Booking Management\bin\Debug\BnB Booking Management.exe.config
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\bin\Debug\BnB Booking Management.exe.config
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\bin\Debug\BnB Booking Management.exe
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\bin\Debug\BnB Booking Management.pdb
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\bin\Debug\BnB Booking Management.xml
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\obj\Debug\BnB_Booking_Management.Auth.resources
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\obj\Debug\BnB_Booking_Management.Resources.resources
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\obj\Debug\BnB Booking Management.vbproj.GenerateResource.Cache
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\obj\Debug\BnB Booking Management.exe
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\obj\Debug\BnB Booking Management.xml
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\obj\Debug\BnB Booking Management.pdb
+C:\Users\Moobi Kabelo\Documents\Visual Studio 2012\Projects\BnB Booking Management\BnB Booking Management\obj\Debug\BnB_Booking_Management.Dashboard.resources
